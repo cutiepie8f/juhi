@@ -13,5 +13,8 @@ public class Demo {
 		
 System.out.println("The factorial of given number is " +fact);
 System.out.println("hellohdgdhdkfflflmmnws");
+System.out.println("ssyhdjnjd");
+System.out.println("dfyidjhmnfbm");
+
 }
 }
