@@ -100,6 +100,7 @@ public class StepDefinition {
 	    driver.findElement(By.xpath("//*[@id=\"reactPageContent\"]/div/div/div[2]/div[2]/div[3]")).click();
 	   Thread.sleep(5000);
 	   driver.quit();
+	   System.out.println("HI ALL...........");
 	    
   }
 
