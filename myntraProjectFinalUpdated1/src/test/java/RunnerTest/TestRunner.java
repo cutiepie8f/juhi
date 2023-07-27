@@ -9,4 +9,3 @@ import io.cucumber.junit.CucumberOptions;
 public class TestRunner {
 
 }
-System.out.println("hi all");
