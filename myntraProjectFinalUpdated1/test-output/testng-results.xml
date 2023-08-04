@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-31T10:49:32 IST" name="Default suite" finished-at="2023-07-31T10:50:00 IST" duration-ms="28314">
+  <suite started-at="2023-08-04T11:23:18 IST" name="Default suite" finished-at="2023-08-04T11:23:41 IST" duration-ms="23218">
     <groups>
     </groups>
-    <test started-at="2023-07-31T10:49:32 IST" name="Default test" finished-at="2023-07-31T10:50:00 IST" duration-ms="28314">
+    <test started-at="2023-08-04T11:23:18 IST" name="Default test" finished-at="2023-08-04T11:23:41 IST" duration-ms="23218">
       <class name="com.myntraProjectFinalUpdated1.App">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.myntraProjectFinalUpdated1.App@5d0a1059]" started-at="2023-07-31T10:49:32 IST" name="setup" finished-at="2023-07-31T10:49:40 IST" duration-ms="8150" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.myntraProjectFinalUpdated1.App@5d0a1059]" started-at="2023-08-04T11:23:18 IST" name="setup" finished-at="2023-08-04T11:23:24 IST" duration-ms="5988" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="search()[pri:0, instance:com.myntraProjectFinalUpdated1.App@5d0a1059]" started-at="2023-07-31T10:49:40 IST" name="search" finished-at="2023-07-31T10:49:59 IST" duration-ms="18813" status="PASS">
+        <test-method signature="search()[pri:0, instance:com.myntraProjectFinalUpdated1.App@5d0a1059]" started-at="2023-08-04T11:23:24 IST" name="search" finished-at="2023-08-04T11:23:40 IST" duration-ms="16686" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myntraProjectFinalUpdated1.App@5d0a1059]" started-at="2023-07-31T10:49:59 IST" name="tearDown" finished-at="2023-07-31T10:50:00 IST" duration-ms="1299" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myntraProjectFinalUpdated1.App@5d0a1059]" started-at="2023-08-04T11:23:40 IST" name="tearDown" finished-at="2023-08-04T11:23:41 IST" duration-ms="502" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
